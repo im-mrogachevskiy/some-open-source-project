@@ -1,7 +1,8 @@
 HEADER
 
-	- This is our open sorce project called: TBD
+	- This is our open sorce project called: TMS teach our use git feature
 
 CONTENT
-
-	- TBD
+	Feature
+	- git commit
+	- git brance
