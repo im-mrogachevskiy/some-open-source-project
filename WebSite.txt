@@ -1,8 +1,6 @@
 HEADER
 
-	- This is our open sorce project called Destiny
-
-CONTENT
+	- This is our open source project called Destiny
 
 	- Today you've discovered a project that will capture your heart for the rest of your life. 
-	And this is not a pure luck, that is Destiny!
+	And this is not a pure luck, this is Destiny!
