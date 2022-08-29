@@ -1,6 +1,6 @@
 HEADER
 
-	- This is our open sorce project called: TBD
+	- This is our open sorce project called Destiny
 
 CONTENT
 
