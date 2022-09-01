@@ -1,7 +1,7 @@
 HEADER
 
-	- This is our open sorce project called: TBD
+	- This is our open sorce project called: ViewUsers
 
 CONTENT
 
-	- TBD
+	- This project is very useful for companies, because it stores information about all employess for all time.
