@@ -1,7 +1,9 @@
 HEADER
 
-	- This is our open sorce project called: TBD
+	- This is our open sorce project called: Magic Eden 
 
 CONTENT
 
-	- TBD
+	Magic Eden 
+	What they do:
+		Leading NFT Marketplace on Solana.
